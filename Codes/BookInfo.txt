@@ -1,0 +1,5 @@
+CCNA Study Guide,Todd Lammle,18,$1.5
+Practice SQL,Anthon Deros,28,$2.0
+Metasploit Pro,David Kenny,35,$2.5
+Wireshark 101,Laura Chapel,0,$1.5
+The Linux Bible,Chris Negus,21,$3.0
